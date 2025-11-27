@@ -20,9 +20,7 @@ Thank you for visiting, and I hope you find my data analysis journey intriguing!
 
 As a data analyst, I have a strong passion for working with data. During my college years at the University of Dayton, where I majored in Accounting with a minor in Management Information Systems, I first discovered my interest in data analysis through internships in corporate and public accounting. Much of the work I performed during these positions involved financial data analysis, which led me to realize my genuine enjoyment in hands-on using data to find and extract insights and answer business questions. This discovery sparked my curiosity to explore the field of analytics further and enhance my data analysis skills.
 
-Through a combination of formal education, work experience, and online learning, I have gained knowledge in tools such as SQL (PostgreSQL, MySQL), Python (NumPy, Pandas, Matplotlib/Seaborn, Scikit-Learn), Power BI, Tableau, and Excel. I also hold a [Data Analyst Associate certification from DataCamp](https://app.datacamp.com/certification), which validated my skills and knowledge. Besides my technical expertise, I have also effectively communicated my analytical findings to business stakeholders through formal presentations. 
-
-My primary aim is to leverage these analytical skills to uncover valuable insights and make a meaningful impact at a company through data analysis. For any inquires, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/weismanm) or by email at weismanm12@gmail.com.
+Through a combination of formal education, work experience, and online learning, I have gained knowledge in tools such as SQL (PostgreSQL, MySQL), Python (NumPy, Pandas, Matplotlib/Seaborn, Scikit-Learn), Power BI, Tableau, and Excel. My primary aim is to leverage these analytical skills to uncover valuable insights and make a meaningful impact at a company through data analysis. For any inquires, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/weismanm).
 
 ---
 
@@ -31,7 +29,6 @@ My primary aim is to leverage these analytical skills to uncover valuable insigh
 - SQL (PostgreSQL, MySQL)
 - Python (Pandas, NumPy, MatplotLib, Seaborn, Scikit-Learn)
 - Power BI
-- Tableau
 - Excel
 - Data Cleaning/Validation
 - Exploratory Data Analysis (EDA)
