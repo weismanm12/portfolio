@@ -2,32 +2,28 @@
 
 ## Introduction
 
-Hello!
-
 My name is Matthew Weisman, and welcome to my data analytics porfolio!
 
 Within this portfolio, you will find links to my completed data analysis projects, each showcasing a range of analytical skills. From data cleaning/validation and database development to EDA and data visualization, these projects encompass a wide array of data-related tasks.
 
-To complete these projects, I used a variety of tools and software. For database work, I utilized SQL code (PostgreSQL, MySQL, SQLAlchemy) to create and analyze databases, as well as to generate reports. Additionally, I used Python to complete tasks involving data cleaning, transformation, analysis, and visualization. I also leveraged Power BI to craft interactive dashboards.
+To complete these projects, I used a variety of tools and software. For database work, I utilized SQL (PostgreSQL, MySQL, SQLAlchemy) to create and analyze databases, as well as to generate reports. Additionally, I used Python to complete tasks involving data cleaning, transformation, analysis, and visualization. I also leveraged Power BI to craft interactive dashboards.
 
 In the [projects section](#projects), you'll find summaries of each project, along with links to their respective repositories for further exploration.
-
-Thank you for visiting, and I hope you find my data analysis journey intriguing!
 
 ---
 
 ## About Me
 
-As a data analyst, I have a strong passion for working with data. During my college years at the University of Dayton, where I majored in Accounting with a minor in Management Information Systems, I first discovered my interest in data analysis through internships in corporate and public accounting. Much of the work I performed during these positions involved financial data analysis, which led me to realize my genuine enjoyment in hands-on using data to find and extract insights and answer business questions. This discovery sparked my curiosity to explore the field of analytics further and enhance my data analysis skills.
+As a data analyst, I have a strong passion for working with data. During my college years, I first discovered my interest in data analysis through internships in corporate and public accounting. Much of the work I performed during these positions involved financial data analysis, which led me to realize my genuine enjoyment in hands-on using data to find and extract insight. This discovery sparked my curiosity to explore the field of analytics further and enhance my data analysis skills.
 
-Through a combination of formal education, work experience, and online learning, I have gained knowledge in tools such as SQL (PostgreSQL, MySQL), Python (NumPy, Pandas, Matplotlib/Seaborn, Scikit-Learn), Power BI, Tableau, and Excel. My primary aim is to leverage these analytical skills to uncover valuable insights and make a meaningful impact at a company through data analysis. For any inquires, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/weismanm).
+Through a combination of formal education, work experience, and online learning, I have gained knowledge in tools such as SQL, Python, Power BI, and Excel.
 
 ---
 
 ## Skills
 
-- SQL (PostgreSQL, MySQL)
-- Python (Pandas, NumPy, MatplotLib, Seaborn, Scikit-Learn)
+- SQL (PostgreSQL, MySQL, MS SQL Server, NZSQL)
+- Python (Pandas, NumPy, MatplotLib, Seaborn)
 - Power BI
 - Excel
 - Data Cleaning/Validation
